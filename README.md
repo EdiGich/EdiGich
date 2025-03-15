@@ -9,6 +9,9 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=EdiGich&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EdiGich&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+### ✍️ Dev Quote
+🌟 **"Code is like humour. When you have to explain it, it’s bad." — Cory House** 
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=EdiGich&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
